@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#anh {
+    width: 1000px;
+    border: 50px inset pink;
+    border-radius: 100px;
+}
+
+a {
+    color: red;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
